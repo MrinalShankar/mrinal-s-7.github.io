@@ -1,0 +1,33 @@
+body
+{background-image: url(bg.jpg);
+background-size: cover;}
+h1{
+	color: red;
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 400%;
+	font-family: "Times New Roman";
+	cursor: default;
+	border-right: 5px solid white;
+	border-bottom: 5px solid white;
+	width:500px;
+	margin: 0px;
+	box-shadow: 5px 5px 5px white;
+
+
+}
+p{
+	font-family: 'Gamja Flower', cursive;
+	text-align: center;
+	color: white;
+	font-size: 250%;
+	text-transform: uppercase;
+	line-height: 5px;
+	cursor: default;
+}
+footer{
+	clear:both;
+	text-align-last: end;
+	color: white;
+}
